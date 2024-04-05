@@ -1,7 +1,7 @@
 ### Hi there 👋
 Tänä keväänä(2024) Jenni opettaa ohjelmointia syksyllä 2023 aloittaneille ohjelmistokehittäjille.
 Tavoitteena on oppia html, css ja JavaScript
-![Mikki kiinni](mikki_kiinni.jpg)
+![Mikki kiinni](mikki_kiinni.JPG)
 
 <!--
 **digiopejenni/digiopejenni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
